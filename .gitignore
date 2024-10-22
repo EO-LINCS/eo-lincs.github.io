@@ -1,0 +1,21 @@
+# Generated manuscript output files
+# Misc temporary files
+*.bak
+
+# System specific files
+
+## Linux
+*~
+.Trash-*
+
+## macOS
+.DS_Store
+._*
+.Trashes
+
+## Windows
+Thumbs.db
+[Dd]esktop.ini
+
+## Text Editors
+.vscode

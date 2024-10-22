@@ -1,25 +1,23 @@
-# Julia Data Cubes
+# Earth Observation, Local and Integrated data eNquiry for Terrestrial Carbon Science (EO-LINCS)
 
 ## Overview
 
-- Storage and analysis of large geospatial raster data e.g. Satellite imagery
-- Focus on high throughput computing (HTC) limited by data loading
-- Array with dimensions e.g. lon, lat, and time, instead of a list of points in vector data
-- Cloud optimized to access particular slices of the data (e.g. Bounding box or timespans)
-- Importance of data compression for cloud-optimized workflows
-- Workflow specific optimization using chunking
-- Lazy computations on large data and making data cubes AI-ready
+Under ESA Carbon Science Cluster: Research Opportunities 2 – Theme 2: Carbon Data Enquiry And Benchmarking, the EO-LINCS promotes a community effort towards an enhanced multi-mission assessment of the terrestrial carbon cycle at resolutions in space and time compatible with decision making by improving the access to the Earth Observation (EO) data for the wider carbon scientific community so that key questions related to scale, representativeness, consistency, reliability, as well as the applicability of the multivariate EO data and how they affect our understanding of the carbon cycle processes across spatial and temporal scales can be addressed. EO-LINCS proposes to 
+
+- provide an integrated approach from data infrastructure, software engineering, ground measurement, and carbon cycle science and modelling perspectives.
+
+- interactively assess the applicability of multiple EO dataset in enhancing the understanding of key carbon cycle processes. 
 
 
-## Featured Projects
 
-- [YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl)
-- [PyramidScheme.jl](https://github.com/JuliaDataCubes/PyramidScheme.jl)
-- [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl)
-- [DGGS.jl](https://github.com/danlooo/DGGS.jl)
-- [DiskArrays.jl](https://github.com/meggart/DiskArrays.jl)
-- [Zarr.jl](https://github.com/JuliaIO/Zarr.jl)
 
-<hr>
-[Imprint](https://www.bgc-jena.mpg.de/2299/imprint)
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+## Project Partners
+
+| | ||
+|----|----|----|
+|SN|Institution||
+|1|Max Planck Institute for Biogeochemistry (MPI-BGC)||
+|2|Brockmann Consult GmBH (BC)||
+|3|Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE) | |
+|4|University of Exeter (UNEXE) ||
+
