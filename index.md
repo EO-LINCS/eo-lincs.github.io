@@ -7,7 +7,7 @@ Under ESA Carbon Science Cluster: Research Opportunities 2 – Theme 2: Carbon D
 Despite the clear progresses in carbon cycle studies fuelled by the growth of EO, there are several underlying challenges that may hinder the applicability of EO data (see Figure below). First of all, the vegetation processes operate across a large spectrum of spatial and temporal scales, e.g., photosynthesis occurs at a molecular to cell scale and is instantaneous, while growth is at individual level over multiple years. The ecosystem/site measurements of the flux exchanges are at ecosystem scale at sub-daily temporal scale, EO measurements are at the spatial and temporal scale of a given satellite with differences across orbits and instruments, and model processes representations and simulations are at a typically large grid cell that differ across models. The ramifications of these differences can only be reconciled with systematic approaches that integrate strengths from all three perspectives. In fact, site level observation, EO, and carbon models are equally important and complementary to each other because observations are only available for contemporary period, satellites need ground observations for calibrations and verifications, and models require observed parameters and variables to be able to constrain uncertainties in future.
 
 
-![](docs/assets/images/concepts/concept.png)
+![](assets/images/concepts/concept.png)
 *EO-LINCS Background: A non-exhaustive general overview of the state-of-the-art in Earth Observation, ecosystem site measurements, and models used in the quantification of carbon cycle variables. The polygons indicate either a representative grid cell or footprint. The waves indicate frequency of the data available, with higher temporal frequency for site measurements. The blue color indicates the time where observations are available (recent past), and red indicates a time domain where models have to be used (future). The boxes indicate carbon fluxes and states, which are underlined by key ecosystem processes, and are often quantified by all methods from different perspectives, resulting in potential inconsistencies in representativeness and scale.*
 
 # EO-LINCS Approach and Objectives
@@ -16,7 +16,7 @@ The proposed approach in EO-LINCS is to facilitate the assimilation of EO data s
 
 
 
-![](docs/assets/images/concepts/concept_outline.png)
+![](assets/images/concepts/concept_outline.png)
 *A conceptual outline of proposed integrated approach in EO-LINCS*
 
 
@@ -52,9 +52,9 @@ The EO-LINCS proposes to
 | | ||
 |----|----|----|
 |SN|Institution||
-|1|Max Planck Institute for Biogeochemistry (MPI-BGC)|![MPI](/docs/assets/images/logos/mpi-bgc.png)
+|1|Max Planck Institute for Biogeochemistry (MPI-BGC)|![MPI](assets/images/logos/mpi-bgc.png)
 |
-|2|Brockmann Consult GmBH (BC)|![BC](/docs/assets/images/logos/bc.png)|
-|3|Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE) |![UVSQ-LSCE](/docs/assets/images/logos/uvsq-lsce.png) |
-|4|University of Exeter (UNEXE) |![UNEXE](/docs/assets/images/logos/unexe.png)|
+|2|Brockmann Consult GmBH (BC)|![BC](assets/images/logos/bc.png)|
+|3|Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE) |![UVSQ-LSCE](assets/images/logos/uvsq-lsce.png) |
+|4|University of Exeter (UNEXE) |![UNEXE](assets/images/logos/unexe.png)|
 
