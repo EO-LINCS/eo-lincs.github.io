@@ -16,7 +16,8 @@ Under ESA Carbon Science Cluster: Research Opportunities 2 – Theme 2: Carbon D
 | | ||
 |----|----|----|
 |SN|Institution||
-|1|Max Planck Institute for Biogeochemistry (MPI-BGC)||
+|1|Max Planck Institute for Biogeochemistry (MPI-BGC)|![MPI](/eo-lincs.github.io/assets/images/logos/mpi-bgc.png)
+|
 |2|Brockmann Consult GmBH (BC)||
 |3|Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE) | |
 |4|University of Exeter (UNEXE) ||
