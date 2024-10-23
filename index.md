@@ -30,20 +30,26 @@ The EO-LINCS proposes to
 ## Scientific Case Studies
 
 ### SCS1: Explanatory power of novel EO data streams for predicting net carbon fluxes
-- Objective: Exploration of novel data streams to constrain net ecosystem exchange estimates at flux towers and analysis of EO product added value via explainable machine learning.
-- Outcomes: A working data processing chain to incorporate Sentinel 3 data into the FLUXCOM-X framework that is updatable and expandable to all sites and other Sentinel data products. An analysis of the contributions of Sentinel 3 data for predicting NEE and analysis into the added value with regards to interannual variability, drought responses, and disturbance.
+> *Exploration of novel data streams to constrain net ecosystem exchange estimates at flux towers and analysis of EO product added value via explainable machine learning.*
+
+A working data processing chain to incorporate Sentinel 3 data into the FLUXCOM-X framework that is updatable and expandable to all sites and other Sentinel data products. An analysis of the contributions of Sentinel 3 data for predicting NEE and analysis into the added value with regards to interannual variability, drought responses, and disturbance.
 
 ### SCS2: Forest recovery post disturbance
-- Objective: To quantify and understand the temporal dynamics of forest biomass during disturbance and recovery in the chosen region.
-- Outcomes: New high-resolution height/biomass maps that are expected to enable the monitoring of biomass at finer scales, in particular the impact of fine scale forest disturbances due to management practices such as thinning and the impact of natural disturbances (insects attacks, droughts, fires and windthrown in regions of interest). Analysis of forest recovery depending on environmental factors (such as climate, soil composition and pH) and the nature and intensity of disturbance shall aid in the optimization of forest management considering potential increased future disturbances.
+
+> *To quantify and understand the temporal dynamics of forest biomass during disturbance and recovery in the chosen region.*
+
+New high-resolution height/biomass maps that are expected to enable the monitoring of biomass at finer scales, in particular the impact of fine scale forest disturbances due to management practices such as thinning and the impact of natural disturbances (insects attacks, droughts, fires and windthrown in regions of interest). Analysis of forest recovery depending on environmental factors (such as climate, soil composition and pH) and the nature and intensity of disturbance shall aid in the optimization of forest management considering potential increased future disturbances.
 
 ### SCS3: Model-Data Fusion for Understanding Carbon State-Flux Relationships Across Space
-- Objective: Use EO data to constrain and understand the carbon state-flux relationships across spatial gradients.
-- Outcomes: Use a terrestrial carbon model structure that can deliver a process understanding of carbon state-flux relationships across space by leveraging and cross-comparing EO data of biomass and vegetation states (fAPAR, LAI, vegetation fraction, etc.) together with ecosystem carbon flux measurements and estimates. Additionally, provide open-source novel MDI tools and workflows for community use paving the way for adoption by other data-assimilation frameworks.
+
+> *Use EO data to constrain and understand the carbon state-flux relationships across spatial gradients.*
+
+Use a terrestrial carbon model structure that can deliver a process understanding of carbon state-flux relationships across space by leveraging and cross-comparing EO data of biomass and vegetation states (fAPAR, LAI, vegetation fraction, etc.) together with ecosystem carbon flux measurements and estimates. Additionally, provide open-source novel MDI tools and workflows for community use paving the way for adoption by other data-assimilation frameworks.
 
 ### SCS4: EO enhanced benchmarking of GCB DGVMs
-- Objective: Better constrain component processes (productivity and turnover; particularly in response to disturbances and land management) that determine the European land carbon sink, and the partitioning into vegetation and soil carbon pools. New observational constraints will be used to evaluate the suite of Dynamic Global Vegetation Models (DGVMs) that contribute to the Global Carbon Budget (GCB) synthesis reports. There will be special attention paid to both managed and unmanaged land.
-- Outcomes: An enhanced ILAMB evaluation tool with a focus on internal carbon dynamics and temporal change able to provide novel insights into DGVM capabilities to simulate the European land carbon sink and identify its main drivers. The spatiotemporal analysis will enable us to produce a roadmap for model improvements, in particular regarding forest management.
+> *Better constrain component processes (productivity and turnover; particularly in response to disturbances and land management) that determine the European land carbon sink, and the partitioning into vegetation and soil carbon pools.*
+
+New observational constraints will be used to evaluate the suite of Dynamic Global Vegetation Models (DGVMs) that contribute to the Global Carbon Budget (GCB) synthesis reports. There will be special attention paid to both managed and unmanaged land. We will enhance ILAMB evaluation tool with a focus on internal carbon dynamics and temporal change able to provide novel insights into DGVM capabilities to simulate the European land carbon sink and identify its main drivers. The spatiotemporal analysis will enable us to produce a roadmap for model improvements, in particular regarding forest management.
 
 
 
