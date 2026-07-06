@@ -19,3 +19,10 @@ Thumbs.db
 
 ## Text Editors
 .vscode
+
+## Jekyll build artifacts (GitHub Pages rebuilds these server-side)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock

@@ -1,0 +1,14 @@
+// EO-LINCS / Max Planck brand color scheme for just-the-docs.
+// Overrides the default (light) scheme's purple with Max Planck green.
+// Palette taken from the project's own MPG theme (eolincs-mpg.css):
+//   --mpg-green:       #006C66  (Max Planck green)
+//   --mpg-green-dark:  #004B47
+//   --mpg-green-light: #4E9D95
+//   --mpg-green-pale:  #E7F1EF
+
+$link-color: #006c66;
+$btn-primary-color: #006c66;
+$body-heading-color: #004b47;
+$nav-child-link-color: #004b47;
+$search-result-preview-color: #4e9d95;
+$feedback-color: darken(#e7f1ef, 3%);
