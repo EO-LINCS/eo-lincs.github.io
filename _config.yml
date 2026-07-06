@@ -1,7 +1,24 @@
 title: EO-LINCS
-logo: /assets/images/logos/eo-lincs.png
 description: Earth Observation, Local and Integrated data eNquiry for Terrestrial Carbon Science
-remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/images/logos/eo-lincs.png
+
+remote_theme: just-the-docs/just-the-docs
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+# just-the-docs options
+color_scheme: mpg  # Max Planck green (see _sass/color_schemes/mpg.scss)
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "EO-LINCS on GitHub":
+    - "https://github.com/EO-LINCS"
+  "xcube-multistore docs":
+    - "https://xcube-dev.github.io/xcube-multistore/"
+aux_links_new_tab: true
+
+# Footer
+footer_content: "EO-LINCS — funded under the ESA Carbon Science Cluster (Research Opportunities 2, Theme 2: Carbon Data Enquiry and Benchmarking)."
+
 google_analytics:
