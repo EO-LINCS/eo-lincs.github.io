@@ -25,7 +25,13 @@ EO-LINCS is delivered by a consortium of four partners, bringing together data i
 [Contact the MPI-BGC science leads](mailto:skoirala@bgc-jena.mpg.de?cc=jnelson@bgc-jena.mpg.de&subject=[EO-LINCS]%20enquiry){: .btn .btn-primary }
 
 
-**Science cases and carbon-cycle science** — reach the individual EO-LINCS science leads:
+**Science case studies** — reach the individual EO-LINCS science leads:
+
+- [**SCS1** — Net carbon fluxes](science-cases/scs1): [Jacob A. Nelson](mailto:jnelson@bgc-jena.mpg.de?subject=[EO-LINCS]%20SCS1%20enquiry)
+- [**SCS2** — Forest recovery](science-cases/scs2): [Agnès Pellissier-Tanon](mailto:agnes.pellissier-tanon@lsce.ipsl.fr?subject=[EO-LINCS]%20SCS2%20enquiry)
+- [**SCS3** — Model-data fusion](science-cases/scs3): [Sujan Koirala](mailto:skoirala@bgc-jena.mpg.de?cc=xshan@bgc-jena.mpg.de&subject=[EO-LINCS]%20SCS3%20enquiry) & [Xu Shan](mailto:xshan@bgc-jena.mpg.de?cc=skoirala@bgc-jena.mpg.de&subject=[EO-LINCS]%20SCS3%20enquiry)
+- [**SCS4** — DGVM benchmarking](science-cases/scs4): [Mike O'Sullivan](mailto:m.osullivan@exeter.ac.uk?subject=[EO-LINCS]%20SCS4%20enquiry)
+
 
 **Tool & technical development** — for questions about `xcube-multistore` and the data stores, reach the developers at Brockmann Consult:
 
