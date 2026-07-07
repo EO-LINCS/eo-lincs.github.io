@@ -6,7 +6,7 @@ nav_order: 4
 
 # Workshops & Events
 
-EO-LINCS engages the wider terrestrial-carbon and Earth-Observation communities through hackathons, workshops, and integration with ESA's open-science platforms. Upcoming events where the EO-LINCS pipelines and [`xcube-multistore`](xcube-multistore) will be showcased and extended:
+EO-LINCS will continue to engage with the wider terrestrial-carbon and Earth-Observation communities through hackathons, workshops, and integration with ESA's open-science platforms. Upcoming events where the EO-LINCS pipelines and [`xcube-multistore`](xcube-multistore) will be showcased and extended:
 
 ## Upcoming hackathons
 

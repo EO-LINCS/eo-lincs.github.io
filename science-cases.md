@@ -7,12 +7,8 @@ has_children: true
 
 # Scientific Case Studies
 
-EO-LINCS develops bespoke data-production pipelines for four distinct Science Case Studies (SCS), co-designed between the scientific and technological partners. Each case demonstrates the [`xcube-multistore`](xcube-multistore) pipelines on a real terrestrial carbon-cycle problem, and each is backed by a public, reproducible repository under the [EO-LINCS GitHub organization](https://github.com/EO-LINCS).
+EO-LINCS develops data-access and production pipelines for four distinct Science Case Studies (SCS), co-designed between the scientific and technological partners. Each case demonstrates the [`xcube-multistore`](xcube-multistore) pipelines on a real terrestrial carbon-cycle problem, and each is backed by a public, reproducible repository under the [EO-LINCS GitHub organization](https://github.com/EO-LINCS).
 
-The science, methods and results are documented in two project deliverables:
-
-- **D5.1 — Impact Assessment Report**: the operational/technical assessment (data access speeds, formats, scalability, and remaining gaps).
-- **D5.4 — Community Assessment Description**: the scientific documentation of workflows and results.
 
 | Case | Focus | Lead | Repository |
 |---|---|---|---|
@@ -21,4 +17,3 @@ The science, methods and results are documented in two project deliverables:
 | [**SCS3**](science-cases/scs3) | Model-data fusion for carbon state–flux relationships across space | MPI-BGC | [eo-lincs-scs3](https://github.com/EO-LINCS/eo-lincs-scs3) |
 | [**SCS4**](science-cases/scs4) | EO-enhanced benchmarking of GCB DGVMs | UNEXE | [eo-lincs-scs4](https://github.com/EO-LINCS/eo-lincs-scs4) |
 
-Select a case from the navigation, or the table above, for the dedicated page.
