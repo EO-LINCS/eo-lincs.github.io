@@ -41,12 +41,3 @@ Each store is a public `xcube` plugin. Several were newly developed or substanti
 | [`xcube-sh`](https://github.com/xcube-dev/xcube-sh) | Sentinel Hub — optional paid mirror (Sentinel-1/2/3/5P) | Sentinel Hub | — |
 
 Planned extensions include Proba-V and Sentinel-1 support via `xcube-stac`.
-
-## Where EO-LINCS is heading
-
-The packages, tutorials, and scripts to build data cubes and run scientific analyses are public in the [EO-LINCS GitHub organization](https://github.com/EO-LINCS/) and the [`xcube-multistore` documentation](https://xcube-dev.github.io/xcube-multistore/). Because extraction is a single notebook driven by a YAML configuration, integration into ESA platforms is expected to be low-friction:
-
-- **[EarthCODE](https://earthcode.esa.int)** — ESA's open-science development environment.
-- **[ESA Open Science Catalog](https://opensciencedata.esa.int/)** — for discovery and reuse of the workflows and outputs.
-
-See the [Workshops & Events](events) page for upcoming hackathons where these pipelines will be showcased and extended.
