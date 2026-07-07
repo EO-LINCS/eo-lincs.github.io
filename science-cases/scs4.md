@@ -16,7 +16,7 @@ nav_order: 4
 
 SCS4 aims to deepen understanding of the processes that drive the European land carbon sink — productivity, turnover, and the impacts of disturbance and land management. Leveraging new EO data and the [International Land Model Benchmarking (ILAMB)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001354) system, it evaluates the Dynamic Global Vegetation Models (DGVMs) that contribute to the Global Carbon Budget (GCB) reports.
 
-The outcome is an enhanced ILAMB evaluation tool focused on internal carbon dynamics and temporal change, providing novel insights into DGVM capabilities to simulate the European land carbon sink and a roadmap for model improvements, in particular regarding forest management.
+The outcome is an enhanced evaluation through ILAMB that are focused on internal carbon dynamics and temporal change, providing novel insights into DGVM capabilities to simulate the European land carbon sink and a roadmap for model improvements, in particular regarding forest management.
 
 ## Code & notebooks
 
@@ -57,4 +57,4 @@ FLUXCOM-X-BASE data comes from the [ICOS Data Portal](https://www.icos-cp.eu/dat
 
 **Conclusions.** Hypothesis 1 (prescribing vegetation structure improves contemporary carbon/water fluxes) is *strongly supported* — the ILAMB scorecard favours the prescribed-land-cover configurations. Hypothesis 2 (higher resolution reduces aggregation bias) is only *partially supported*: improvements are not universal and depend strongly on the land-cover dataset and cross-walking assumptions, which remain a critical bottleneck.
 
-**Tooling assessment (D5.1).** For datasets already integrated into the `xcube` ecosystem (ESA CCI Biomass, Xu et al.), the workflow performed reliably without user modification. Extending it to not-yet-configured products (FLUXCOM-X productivity, GFED, GLOBMAP LAI) still required Python/Jupyter/xcube expertise — motivating a library of ready-to-use scripts and configuration templates. Processing code is public at [`eo-lincs-scs4/scientific_analysis`](https://github.com/EO-LINCS/eo-lincs-scs4/tree/main/scientific_analysis).
+**Tooling assessment.** For datasets already integrated into the `xcube` ecosystem (ESA CCI Biomass, Xu et al.), the workflow performed reliably without user modification. Extending it to not-yet-configured products (FLUXCOM-X productivity, GFED, GLOBMAP LAI) still required Python/Jupyter/xcube expertise — motivating a library of ready-to-use scripts and configuration templates. Processing code is public at [`eo-lincs-scs4/scientific_analysis`](https://github.com/EO-LINCS/eo-lincs-scs4/tree/main/scientific_analysis).

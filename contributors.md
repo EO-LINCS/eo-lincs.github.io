@@ -6,7 +6,7 @@ nav_order: 5
 
 # Contributors & Contact
 
-EO-LINCS is delivered by a consortium of four partners, bringing together data infrastructure, software engineering, ground measurement, and carbon-cycle science and modelling.
+EO-LINCS is delivered by a consortium of four partners, bringing together data infrastructure, software engineering, and carbon-cycle science and modelling.
 
 ## Consortium
 
@@ -19,17 +19,17 @@ EO-LINCS is delivered by a consortium of four partners, bringing together data i
 
 ## Get in contact
 
-**Science cases and carbon-cycle science** — reach the EO-LINCS science leads at MPI-BGC:
+**Project co-ordination at MPI-BGC** — Sujan Koirala (project coordination, SCS3) and Jacob A. Nelson (SCS1).
+[Contact the MPI-BGC science leads](mailto:skoirala@bgc-jena.mpg.de?cc=jnelson@bgc-jena.mpg.de&subject=[EO-LINCS]%20enquiry){: .btn .btn-primary }
 
-[Contact the MPI-BGC science leads](mailto:skoirala@bgc-jena.mpg.de?cc=jnelson@bgc-jena.mpg.de&subject=EO-LINCS%20enquiry){: .btn .btn-primary }
 
-Sujan Koirala (project coordination, SCS3) and Jacob A. Nelson (SCS1).
+**Science cases and carbon-cycle science** — reach the individual EO-LINCS science leads:
 
 **Tool & technical development** — for questions about `xcube-multistore` and the data stores, reach the developers at Brockmann Consult:
 
-[Contact the Brockmann Consult developers](mailto:konstantin.ntokas@brockmann-consult.de?cc=gunnar.brandt@brockmann-consult.de&subject=xcube-multistore%20enquiry){: .btn .btn-primary }
+[Contact the Brockmann Consult developers](mailto:konstantin.ntokas@brockmann-consult.de?cc=yogesh.baljeetsingh@brockmann-consult.de&subject=[EO-LINCS]%20xcube-multistore%20enquiry){: .btn .btn-primary }
 
-Konstantin Ntokas and Gunnar Brandt.
+Konstantin Ntokas and Yogesh K. B. Singh.
 
 ## Contribute to the tools
 
@@ -37,5 +37,3 @@ All EO-LINCS software is open-source. Contributions — bug reports, feature req
 
 - **Science-case pipelines** — the four repositories under the [EO-LINCS GitHub organization](https://github.com/EO-LINCS): [`eo-lincs-scs1`](https://github.com/EO-LINCS/eo-lincs-scs1), [`eo-lincs-scs2`](https://github.com/EO-LINCS/eo-lincs-scs2), [`eo-lincs-scs3`](https://github.com/EO-LINCS/eo-lincs-scs3), [`eo-lincs-scs4`](https://github.com/EO-LINCS/eo-lincs-scs4).
 - **Core framework** — [`xcube-multistore`](https://github.com/xcube-dev/xcube-multistore) and the individual `xcube` data-store plugins under the [`xcube-dev` organization](https://github.com/xcube-dev). Open an issue or pull request on the relevant repository.
-
-For general project information, see the [external project webpage](https://eo-lincs.github.io/) and the [internal project organization](https://github.com/EO-LINCS/eo-lincs-org).
