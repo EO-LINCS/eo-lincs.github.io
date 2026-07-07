@@ -10,17 +10,12 @@ EO-LINCS is delivered by a consortium of four partners, bringing together data i
 
 ## Consortium
 
-| Partner | Role |
-|---|---|
-| [Max Planck Institute for Biogeochemistry (MPI-BGC)](https://www.bgc-jena.mpg.de/) — Germany | Coordination; science cases SCS1 & SCS3 |
-| [Brockmann Consult GmbH (BC)](https://www.brockmann-consult.de/about-us/) — Germany | Tool & data-store development (`xcube` / `xcube-multistore`) |
-| [Laboratory of Climate and Environmental Sciences (UVSQ-LSCE)](https://www.lsce.ipsl.fr/en/home-public/) — France | Science case SCS2 |
-| [University of Exeter (UNEXE)](https://www.exeter.ac.uk) — United Kingdom | Science case SCS4 |
-
-![MPI-BGC](assets/images/logos/mpi-bgc.png)
-![Brockmann Consult](assets/images/logos/bc.png)
-![UVSQ-LSCE](assets/images/logos/uvsq-lsce.png)
-![University of Exeter](assets/images/logos/unexe.png)
+| SN | Institution | Role | |
+|----|-------------|------|---|
+| 1 | [Max Planck Institute for Biogeochemistry (MPI-BGC)](https://www.bgc-jena.mpg.de/) | Coordination; science cases SCS1 & SCS3 | ![MPI](assets/images/logos/mpi-bgc.png) |
+| 2 | [Brockmann Consult GmbH (BC)](https://www.brockmann-consult.de/about-us/) | Tool & data-store development (`xcube` / `xcube-multistore`) | ![BC](assets/images/logos/bc.png) |
+| 3 | [Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE)](https://www.lsce.ipsl.fr/en/home-public/) | Science case SCS2 | ![UVSQ-LSCE](assets/images/logos/uvsq-lsce.png) |
+| 4 | [University of Exeter (UNEXE)](https://www.exeter.ac.uk) | Science case SCS4 | ![UNEXE](assets/images/logos/unexe.png) |
 
 ## Get in contact
 

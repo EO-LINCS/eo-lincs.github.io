@@ -69,16 +69,4 @@ Each science case is demonstrated in a public, reproducible repository and docum
 
 ## Project Partners
 
-| | ||
-|----|----|----|
-|SN|Institution||
-|1|[Max Planck Institute for Biogeochemistry (MPI-BGC)](https://www.bgc-jena.mpg.de/)|![MPI](assets/images/logos/mpi-bgc.png)
-|
-|2|[Brockmann Consult GmBH (BC)](https://www.brockmann-consult.de/about-us/)|![BC](assets/images/logos/bc.png)
-|
-|3|[Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE)](https://www.lsce.ipsl.fr/en/home-public/) |![UVSQ-LSCE](assets/images/logos/uvsq-lsce.png)
-|
-|4|[University of Exeter (UNEXE)](https://www.exeter.ac.uk) |![UNEXE](assets/images/logos/unexe.png)
-|
-
-See the [Contributors & Contact](contributors) page to get in touch or contribute to the tools.
+EO-LINCS is delivered by a consortium of four partners. See the [Contributors & Contact](contributors) page for the full consortium, how to get in touch, and how to contribute to the tools.
