@@ -11,7 +11,7 @@ EO-LINCS is delivered by a consortium of four partners, bringing together data i
 ## Consortium
 
 | SN | Institution | Role | |
-|----|-------------|------|---|
+|----|-------------|------|:----:|
 | 1 | [Max Planck Institute for Biogeochemistry (MPI-BGC)](https://www.bgc-jena.mpg.de/) | Coordination; science cases SCS1 & SCS3 | ![MPI](assets/images/logos/mpi-bgc.png) |
 | 2 | [Brockmann Consult GmbH (BC)](https://www.brockmann-consult.de/about-us/) | Tool & data-store development (`xcube` / `xcube-multistore`) | ![BC](assets/images/logos/bc.png) |
 | 3 | [Laboratory of Climate and Environmental Sciences - University of Versailles Saint-Quentin-en-Yvelines (UVSQ-LSCE)](https://www.lsce.ipsl.fr/en/home-public/) | Science case SCS2 | ![UVSQ-LSCE](assets/images/logos/uvsq-lsce.png) |
